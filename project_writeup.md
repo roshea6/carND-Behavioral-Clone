@@ -1,6 +1,8 @@
 # **Behavioral Cloning** 
 Ryan O'Shea
 
+IMPORTANT: The videos I captured of the car driving around the track were too large to be included so they were uploaded to Youtube and linked below.
+
 ---
 
 **Behavioral Cloning Project**
