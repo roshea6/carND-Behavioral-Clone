@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [model]: ./ex_imgs/nvidia-architecture.png "Model Visualization"
-[bad_corner]: ./ex_imgs/bad_corner.png "Grayscaling"
+[bad_corner]: ./ex_imgs/bad_corner.PNG "Grayscaling"
 [left]: ./ex_imgs/left.jpg "left camera"
 [center]: ./ex_imgs/center.jpg "center camera"
 [right]: ./ex_imgs/right.jpg "right camera"
